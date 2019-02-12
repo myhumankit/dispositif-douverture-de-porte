@@ -1,7 +1,7 @@
 # Dispositif d'ouverture de porte
 Ce dispositif permet l'ouverture d'une porte standard pour un usager en fauteuil électrique.
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](images/presentation.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/dispositif-douverture-de-porte)

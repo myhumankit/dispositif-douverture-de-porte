@@ -6,7 +6,7 @@
         "lang": "fr",
         "version": "0.1.0",
         "featured_image": {
-            "url": "images/mhk_logotype.png"
+            "url": "images/presentation.jpg"
         },
         "links": [
             {
@@ -27,6 +27,10 @@
             }
         ],
         "contributors": [
+            {
+                "full_name": "Elisa Triquet",
+                "role": "Porteur de projet"
+            },
             {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",
