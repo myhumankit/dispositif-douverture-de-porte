@@ -5,7 +5,7 @@ Ce dispositif permet l'ouverture d'une porte standard pour un usager en fauteuil
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/dispositif-douverture-de-porte)
- * [page d'accueil du projet sur le GesLab](https://dev.humanlab.me/projet/dispositif-douverture-de-porte/)
+ * [page d'accueil du projet sur le GesLab](https://rennes.humanlab.me/projet/dispositif-douverture-de-porte/)
  * [page wiki du projet sur le wiki du Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Dispositif_douverture_de_porte)
 
 
@@ -44,7 +44,7 @@ Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) p
 
 ## Links
  * [Documentation page of the project](https://docs.humanlab.me/myhumankit/dispositif-douverture-de-porte)
- * [Home page of the project on GesLab](https://dev.humanlab.me/projet/dispositif-douverture-de-porte/)
+ * [Home page of the project on GesLab](https://rennes.humanlab.me/projet/dispositif-douverture-de-porte/)
  * [Page of the project on the wiki of the Humanlab](http://wikilab.myhumankit.org/index.php?title=Projets:Dispositif_douverture_de_porte)
 
 
