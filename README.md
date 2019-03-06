@@ -1,4 +1,7 @@
 # Dispositif d'ouverture de porte
+![proto](https://img.shields.io/badge/proto-réalisé-success.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 Ce dispositif permet l'ouverture d'une porte standard pour un usager en fauteuil électrique.
 
 ![featured_image](images/presentation.jpg)
