@@ -4,26 +4,30 @@
         "slug": "dispositif-douverture-de-porte",
         "short_description": "Ce dispositif permet l'ouverture d'une porte standard pour un usager en fauteuil électrique.",
         "lang": "fr",
-        "version": "0.1.0",
-        "featured_image": {
-            "url": "images/presentation.jpg"
-        },
+        "license": "CC BY",
+        "about": "Ce dispositif permet l'ouverture d'une porte standard pour un usager en fauteuil électrique.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/presentation.jpg",
+                    "caption": "Dispositif d'ouverture de porte"
+                }
+            }
+        ],
         "links": [
             {
-                "url": "https://rennes
-or .humanlab.me/projet/dispositif-douverture-de-porte/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "url": "https://rennes.humanlab.me/projet/dispositif-douverture-de-porte/",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Dispositif_douverture_de_porte",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-            
             {
                 "url": "https://github.com/myhumankit/dispositif-douverture-de-porte",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
@@ -34,9 +38,9 @@ or .humanlab.me/projet/dispositif-douverture-de-porte/",
             },
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
             }
         ]
     }
